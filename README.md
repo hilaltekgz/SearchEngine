@@ -10,7 +10,7 @@ COVID-19 is causing a global crisis that affects many areas of human life around
 <img width="975" alt="image" src="https://user-images.githubusercontent.com/62748526/168163135-608c74cb-caad-40dc-8f9e-f243b7644aa0.png">
 
 
-Kaynakça
+References
 
 [1] https://www.semanticscholar.org/cord19
 [2] https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv
